@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kezuk-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kezuk-dev" /> </p>
 
-<!--
-**kezuk-dev/kezuk-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💼 Welcome on the Main of the Kezuk GitHub
+I am a young developer who started typing his first real line of code in 2018
 
-Here are some ideas to get you started:
+# 😈 Mine Informations
+ -> Working on: Akyto\
+ -> In forms at: OpenClassrooms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🤖 Contact
+ -> Discord: kezukdev\
+ -> Mail: contact@kezuk.dev
+ 
+ # ⚡️Kezuk Statistics
+![Kezuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezukdev&count_private=true)
+
+<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kezukdev&show_icons=true&theme=dark" />
