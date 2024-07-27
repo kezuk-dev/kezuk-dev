@@ -12,6 +12,6 @@ I am a young developer who started typing his first real line of code in 2018
  -> Mail: contact@kezuk.dev
  
  # ⚡️Kezuk Statistics
-![Kezuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezukdev&count_private=true)
+![Kezuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezuk-dev&count_private=true)
 
-<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kezukdev&show_icons=true&theme=dark" />
+<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kezuk-dev&show_icons=true&theme=dark" />
