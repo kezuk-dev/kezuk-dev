@@ -11,7 +11,7 @@ Je suis **Kezuk**, un développeur passionné de 21 ans. Je travaille principale
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
----
+
 
 ## 📊 Statistiques GitHub
 
@@ -19,19 +19,19 @@ Je suis **Kezuk**, un développeur passionné de 21 ans. Je travaille principale
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=kezuk-dev&layout=compact&theme=tokyonight)
 
----
+
 
 ## 🚀 À propos de moi
 
 Je suis un développeur autodidacte et curieux, toujours en quête d'apprentissage et de nouvelles opportunités pour améliorer mes compétences. Je me concentre principalement sur le développement front-end, mais j'aime aussi explorer d'autres domaines comme le back-end et la programmation de scripts.
 
----
+
 
 ## 📬 Contact
 
 - **Discord**: kezukdev
 - **Email**: [contact@kezuk.quest](mailto:contact@kezuk.quest)
 
----
+
 
 Merci de visiter mon profil ! Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter via Discord ou email.
