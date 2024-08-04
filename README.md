@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
 Je suis **Kezuk**, un développeur passionné de 21 ans. Je travaille principalement avec les technologies suivantes :
-
+<p></p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
