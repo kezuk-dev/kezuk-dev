@@ -15,9 +15,9 @@ Je suis **Kezuk**, un développeur passionné de 21 ans. Je travaille principale
 
 ## 📊 Statistiques GitHub
 
-![Nombre de vues de mon profil](https://komarev.com/ghpvc/?username=kezuk&color=blue)
+![Nombre de vues de mon profil](https://komarev.com/ghpvc/?username=kezuk-dev&color=blue)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=kezuk&layout=compact&theme=tokyonight)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=kezuk-dev&layout=compact&theme=tokyonight)
 
 ---
 
